@@ -12,10 +12,10 @@
 
 export const SUPABASE_CONFIG = {
   // Replace with your actual Supabase project URL
-  url: 'https://your-project-id.supabase.co',
+  url: 'https://jonmwxwlrpahwjehgovd.supabase.co',
   
   // Replace with your actual Supabase anon key (this is safe to expose in frontend)
-  anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.your-anon-key-here',
+  anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impvbm13eHdscnBhaHdqZWhnb3ZkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTIzMjQ2OTMsImV4cCI6MjA2NzkwMDY5M30.fqsgIOzZf6SYRmc1alhVq8XtIJFn3xtSgynUl2XVwaU',
   
   // Database table schemas for AetherScope
   tables: {
@@ -43,7 +43,7 @@ export const SUPABASE_CONFIG = {
 
 export const COHERE_CONFIG = {
   // Replace with your actual Cohere API key
-  apiKey: 'your-cohere-api-key-here',
+  apiKey: '9Dl2LITUNfilQILDe3aWRl6PXbRY3IV240QDEtnK',
   
   // Cohere API endpoints
   baseUrl: 'https://api.cohere.ai/v1',

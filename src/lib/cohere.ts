@@ -1,6 +1,6 @@
 // Cohere API configuration and utilities
 // Replace with your actual Cohere API key
-const COHERE_API_KEY = 'your-cohere-api-key-here';
+const COHERE_API_KEY = '9Dl2LITUNfilQILDe3aWRl6PXbRY3IV240QDEtnK';
 const COHERE_API_URL = 'https://api.cohere.ai/v1';
 
 interface CohereResponse {
